@@ -4,7 +4,7 @@
 #
 
 # CHANGE FOR YOUR IP ADDRESS
-ESP_IP="192.168.1.83"
+ESP_IP="aurora"
 
 
 # Make sure the GPIO pin is set LOW. Probably not needed, but doesn't hurt
